@@ -1,11 +1,11 @@
-# Hi there, I'm João! 👋
+# Olá! 👋
 
 Seja bem-vindo ao meu perfil. 
 Meu nome é João, sou apaixonado por desenvolvimento WEB e Apps. Formado em Ciência da Computação em 2019 pela UNESP de Presidente Prudente.
 Programar para mim não é só para trabalho, mas um hobby e uma diversão.
 Juntando todos projetos, já desenvolvi coisas que já chegaram á milhões de pessoas ao redor do mundo.
 
-## About Me
+## Sobre
 
 - 🌱 Estou atualmente estudando **Testes Unitários**, **Arquitetura Transformer** e **SCORM**
 - 👯 Estou a procura de **projetos na área de Educação e Jogos**
@@ -13,14 +13,14 @@ Juntando todos projetos, já desenvolvi coisas que já chegaram á milhões de p
 - 📫 Você pode me encotrar usando o email **joaogabriel.sveen@gmail.com**
 - ⚡ Fato Curioso: **98% do que uso hoje aprendi por conta própria**
 
-## Skills and Technologies
+## Habilidades e Tecnologias
 
 - **Languages:** NodeJS, PHP, Java, Python, Ruby, C, C++ 
 - **Frameworks:** Nuxt, Next, Vue, ReactJS, React Native, IONIC, CodeIgniter, Rails
 - **Tools:** Typescript, ExpressJS, AWS, Firebase
 - **Databases:** MongoDB, MySQL
 
-## Projects
+## Projetos
 
 Aqui está os projetos mais importantes que eu participei
 
