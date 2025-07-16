@@ -7,7 +7,7 @@ Juntando todos projetos, já desenvolvi coisas que já chegaram á milhões de p
 
 ## Sobre
 
-- 🌱 Estou atualmente estudando **Testes Unitários**, **Arquitetura Transformer** e **SCORM**
+- 🌱 Estou atualmente estudando **Escalonamentos Horizontais** e **Cyber Security**
 - 👯 Estou a procura de **projetos na área de Educação e Jogos**
 - 💬 Pode me perguntar sobre **Desenvolvimento Frontend**
 - 📫 Você pode me encotrar usando o email **joaogabriel.sveen@gmail.com**
