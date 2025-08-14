@@ -24,6 +24,11 @@ Juntando todos projetos, já desenvolvi coisas que já chegaram á milhões de p
 
 Aqui está os projetos mais importantes que eu participei
 
+### Rock in Rio
+- **Grande desafio de Infra-estrutura**: Projeto lançado em 2025 traz uma experiência interativa para ganhar ingressos gratuitos
+- **Stack** Typescript, Mongo, AWS
+- [**Landing Page:**](https://ingressos.amazonialive.com.br/)
+- 
 ### CRAVADA
 - **Maior Game Fantasy de Volei do Brasil**: Projeto foi ao ar em 2022, segue até hoje na terceira temporada
 - **Stack** Nuxt, NodeJS, MongoDB
@@ -33,8 +38,3 @@ Aqui está os projetos mais importantes que eu participei
 - **Quiz no Alexa mais acessado no Mundo:** Participei do desenvolvimento das telas visuais em 2021
 - **Technologies:** NodeJS, VueJS
 - **Repository:** [Link da Skill](https://www.amazon.com/VoicePress-AI-Question-of-the-Day/dp/B01N6QUAXX)
-
-### JOCO
-- **HUB de Plataformas de Aprendizagem:**: Trazendo ensino leve e divertido para mais de meio milhão de brasileiros
-- **Technologies:** Angular, Nuxt, Next, Typscript, VueJS
-- **Repository:** [Conheça](https://joco.com.br/)
