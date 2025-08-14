@@ -27,8 +27,8 @@ Aqui está os projetos mais importantes que eu participei
 ### Rock in Rio
 - **Grande desafio de Infra-estrutura**: Projeto lançado em 2025 traz uma experiência interativa para ganhar ingressos gratuitos
 - **Stack** Typescript, Mongo, AWS
-- [**Landing Page:**](https://ingressos.amazonialive.com.br/)
-- 
+- [**Landing Page**](https://ingressos.amazonialive.com.br/)
+
 ### CRAVADA
 - **Maior Game Fantasy de Volei do Brasil**: Projeto foi ao ar em 2022, segue até hoje na terceira temporada
 - **Stack** Nuxt, NodeJS, MongoDB
