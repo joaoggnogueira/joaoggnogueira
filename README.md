@@ -17,7 +17,7 @@ Juntando todos projetos, já desenvolvi coisas que já chegaram á milhões de p
 
 - **Languages:** NodeJS, PHP, Java, Python, Ruby, C, C++ 
 - **Frameworks:** Nuxt, Next, Vue, ReactJS, React Native, IONIC, CodeIgniter, Rails
-- **Tools:** Typescript, ExpressJS, AWS EC2/Cloundfront/EB/S3/CM/LAMBDA/SES, Firebase Functions/Storage/Hosting, LangChain, PenTools
+- **Tools:** Typescript, ExpressJS, AWS EC2/Cloundfront/EB/S3/CM/LAMBDA/SES, Firebase Functions/Storage/Hosting, LangChain, PenTest
 - **Databases:** MongoDB, MySQL
 
 ## Projetos
