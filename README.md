@@ -7,7 +7,7 @@ Juntando todos projetos, já desenvolvi coisas que já chegaram á milhões de p
 
 ## Sobre
 
-- 🌱 Estou atualmente estudando **Escalonamentos Horizontais** e **Cyber Security**
+- 🌱 Estou atualmente estudando **AI Agents**
 - 👯 Estou a procura de **projetos na área de Educação e Jogos**
 - 💬 Pode me perguntar sobre **Desenvolvimento Frontend**
 - 📫 Você pode me encotrar usando o email **joaogabriel.sveen@gmail.com**
@@ -17,7 +17,7 @@ Juntando todos projetos, já desenvolvi coisas que já chegaram á milhões de p
 
 - **Languages:** NodeJS, PHP, Java, Python, Ruby, C, C++ 
 - **Frameworks:** Nuxt, Next, Vue, ReactJS, React Native, IONIC, CodeIgniter, Rails
-- **Tools:** Typescript, ExpressJS, AWS, Firebase
+- **Tools:** Typescript, ExpressJS, AWS EC2/Cloundfront/EB/S3/CM/LAMBDA/SES, Firebase Functions/Storage/Hosting, LangChain, PenTools
 - **Databases:** MongoDB, MySQL
 
 ## Projetos
